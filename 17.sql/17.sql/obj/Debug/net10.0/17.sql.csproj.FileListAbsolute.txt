@@ -1,0 +1,4 @@
+E:\erasoft\17.sql\17.sql\obj\Debug\net10.0\17.sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\erasoft\17.sql\17.sql\obj\Debug\net10.0\17.sql.AssemblyInfoInputs.cache
+E:\erasoft\17.sql\17.sql\obj\Debug\net10.0\17.sql.AssemblyInfo.cs
+E:\erasoft\17.sql\17.sql\obj\Debug\net10.0\17.sql.csproj.CoreCompileInputs.cache

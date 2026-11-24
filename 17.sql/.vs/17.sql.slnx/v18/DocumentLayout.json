@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\erasoft\\17.sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3FCDEC-C396-45D0-B76A-D6CF34A96AF8}|17.sql\\17.sql.csproj|e:\\erasoft\\17.sql\\17.sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3FCDEC-C396-45D0-B76A-D6CF34A96AF8}|17.sql\\17.sql.csproj|solutionrelative:17.sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\erasoft\\17.sql\\17.sql\\Program.cs",
+              "RelativeDocumentMoniker": "17.sql\\Program.cs",
+              "ToolTip": "E:\\erasoft\\17.sql\\17.sql\\Program.cs*",
+              "RelativeToolTip": "17.sql\\Program.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:04:21.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
